@@ -8,16 +8,15 @@
 
 ## Taller Avanzado de Desarrollo de Software
 
-### Entrega - Práctica (acceso + seguridad + rptUsuarios)
+### Entrega - Práctica (wsCheckUsuarioCrud)
 
 **Profesor:** M.T.I. Luis Alejandro Santana Valadez
 
 **Estudiante:** 21200656 - Moedano Alcántara María Fernanda
 
-**Fecha:** 23/04/2025
+**Fecha:** 02/05/2025
 
 ---
 
 ## Conclusión
-
-En esta práctica se implementó un filtro en mi API para buscar registros por coincidencias en el nombre y con el usuario, mejorando así la funcionalidad de búsqueda y permitiendo una gestión más específica de los datos. Este proceso me ayudó a comprender mejor cómo aplicar filtros dinámicos en las consultas y a estructurar adecuadamente las respuestas. Además, en mi perfil se modificó la imagen por una foto mía y se acomodó la vista para que aparecieran 5 registros, esto para hacer más sencilla la visualización de los resultados. En general, fue una experiencia útil para mejorar mi manejo de APIs y consultas filtradas.
+Con esta práctica aprendí a conectar mi formulario web con una API para consultar y actualizar información de los usuarios. Me gustó ver cómo, al escribir la clave de un usuario, se llenaban automáticamente los campos con sus datos, y cómo después podía modificarlos y guardarlos de nuevo. Aunque al principio parecía complicado, poco a poco fui entendiendo mejor cómo se comunican las diferentes partes del sistema. Me siento más seguro trabajando con formularios, APIs y bases de datos, y esta práctica me ayudó a ver cómo todo cobra sentido cuando los componentes se conectan bien.

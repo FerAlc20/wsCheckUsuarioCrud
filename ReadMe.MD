@@ -13,7 +13,8 @@
 **Profesor:** M.T.I. Luis Alejandro Santana Valadez
 
 **Estudiante:** 21200656 - Moedano Alcántara María Fernanda
-
+                21200659 - Ortiz Velázquez Gabriela Paola
+                21200666 - Soto Cadena Alan
 **Fecha:** 02/05/2025
 
 ---
